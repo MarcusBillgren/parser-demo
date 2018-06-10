@@ -1,4 +1,4 @@
-package com.billgren.filereader;
+package com.billgren.parser;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
