@@ -6,12 +6,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import javax.swing.plaf.basic.BasicTabbedPaneUI.TabSelectionHandler;
-import javax.swing.text.AbstractDocument.BranchElement;
-
 import com.billgren.bean.ClinicTest;
-import com.sun.corba.se.spi.ior.MakeImmutable;
-import com.sun.xml.internal.ws.client.sei.ValueSetter;
+
 
 public class ReadFile {
 	
